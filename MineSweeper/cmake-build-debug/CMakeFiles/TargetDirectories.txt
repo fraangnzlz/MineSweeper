@@ -1,0 +1,3 @@
+C:/Users/frang/CLionProjects/PRACTICA_FINAL/cmake-build-debug/CMakeFiles/PRACTICA_FINAL.dir
+C:/Users/frang/CLionProjects/PRACTICA_FINAL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/frang/CLionProjects/PRACTICA_FINAL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
